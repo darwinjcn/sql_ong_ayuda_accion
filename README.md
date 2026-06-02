@@ -138,7 +138,7 @@ Vistas estratégicas para simplificar el reporting y la toma de decisiones:
 ## 📄 Documentación
 
 - 📋 **[Caso de Estudio](./docs/caso_estudio_37.pdf)** — Análisis del caso de negocio
-- 📋 **[Reporte Completo NGO](./docs/reporte_completo_ong.pdf)** — Especificaciones funcionales y diccionario de datos
+- 📋 **[Reporte Completo ONG](./docs/reporte_completo_ong.pdf)** — Especificaciones funcionales y diccionario de datos
 
 ---
 
