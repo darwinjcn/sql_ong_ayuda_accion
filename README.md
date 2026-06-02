@@ -43,6 +43,18 @@ sql_ong_ayuda_accion/
 
 ---
 
+## 📐 Diagramas ERD
+
+### Diagrama Conceptual
+
+![Diagrama ERD Conceptual](./diagrams/erd_conceptual.png)
+
+### Diagrama Físico (PostgreSQL)
+
+![Diagrama ERD Físico](./diagrams/erd_fisico_postgres.png)
+
+---
+
 ## 🚀 Instalación Rápida
 
 ### Prerrequisitos
@@ -55,7 +67,7 @@ sql_ong_ayuda_accion/
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/sql_ong_ayuda_accion.git
+   git clone https://github.com/darwinjcn/sql_ong_ayuda_accion.git
    cd sql_ong_ayuda_accion
    ```
 
@@ -125,10 +137,8 @@ Vistas estratégicas para simplificar el reporting y la toma de decisiones:
 
 ## 📄 Documentación
 
-- 📊 **Diagrama ERD Físico** *(pendiente de subir a GitHub)* — Visualización gráfica de las relaciones entre entidades
-- 📋 **Especificaciones Funcionales** *(pendiente de subir a GitHub)* — Análisis de requerimientos y diccionario de datos
-
-> 📁 Archivos locales: `diagrams/erd_fisico_postgres.png` y `docs/reporte_completo_ong.pdf` — se subirán al repositorio pronto.
+- 📋 **[Caso de Estudio](./docs/caso_estudio_37.pdf)** — Análisis del caso de negocio
+- 📋 **[Reporte Completo NGO](./docs/reporte_completo_ong.pdf)** — Especificaciones funcionales y diccionario de datos
 
 ---
 
